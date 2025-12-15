@@ -1,0 +1,6 @@
+.env
+.cloudinary_keys
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
